@@ -1,9 +1,0 @@
-/app/build/HelloWorld
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.AssemblyInfoInputs.cache
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.AssemblyInfo.cs
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.sourcelink.json
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.dll
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/refint/HelloWorld.dll
-/mnt/c/Users/pako/Projects/HelloWorld/HelloWorld/obj/Release/net8.0/HelloWorld.pdb
